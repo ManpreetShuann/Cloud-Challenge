@@ -29,3 +29,7 @@ Example Inputs:
 > Object = {"x": {"y": {"z": "a"}}}
 > key = "x/y/z"
 > Output = a
+
+---
+
+> PS: You can find the solution of each challenge in their respective folder
